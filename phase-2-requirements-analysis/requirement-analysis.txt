@@ -1,0 +1,23 @@
+Requirement Analysis : Small Library Management System
+
+
+Functional Requirements : 
+	The system shall allow the librarian to add new books
+	The system shall display a list of all books
+	The system shall allow the librarian to issue a book to a member
+	The system shall allow the librarian to return an issued book
+	The system shall allow the librarian to search a book by book ID to check availability
+
+Non Functional Requirements :
+	The system shall be web-based
+	The system shall have a simple interface
+	The system shall operate without a database
+	The system shall be suitable for local execution in a web browser
+
+Use cases : 
+	Add Book
+	View Book List
+	Search Book
+	Issue Book
+	Return Book
+
