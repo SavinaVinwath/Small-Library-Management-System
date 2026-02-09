@@ -1,0 +1,38 @@
+Project Plan : Small library management system
+
+
+This document is the project plan for the small library management system developed for the Waterfall group assignment by Savina Vinwath, Yasiru Gimhan and Vimukthi Bandara. 
+
+
+Problem statement :
+
+Small libraries manage book records and issuing manually, which makes it difficult to quickly check book availability and track issued books accurately.
+
+Objectives :
+
+	To develop a simple Library Management System for managing books
+	To allow the librarian to check book availability and issued status
+	To demonstrate the traditional Waterfall SDLC process
+	To understand the impact of strict phase sequencing
+
+Scope :
+
+	Add book details
+	View list of books
+	Issue a book to a member
+	Return an issued book
+	Search a book by ID to check availability
+
+The system will not support- due dates, reports, user authentications, outside database.
+
+Assumptions :
+ 	
+	The system will be used by one librarian
+	Data is entered carefully
+	No need for third party access
+
+Constraints :	
+
+	No database
+	Limited developing time
+	For the simplicity, we will only use HTML and JavaScript
